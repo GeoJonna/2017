@@ -1,6 +1,6 @@
 De Locatieserver is een gratis zoekservice die voor iedereen beschikbaar is. Met de Locatieserver kun je zoeken op BAG- en BRK-gegevens. De service kan eenvoudig opgenomen worden in viewers en put uit de meest actuele en betrouwbare overheidsdata.
 
-De Locatieserver van PDOK is de opvolger van de veel gebruikte PDOK Geocodeerservice. 
+De Locatieserver van PDOK is de opvolger van de PDOK Geocodeerservice. 
 
 Links:
 * [Productbeschrijving](https://www.pdok.nl/nl/producten/pdok-locatieserver)  
